@@ -1,7 +1,7 @@
 ## Sup, I'm Daniel 👋
 
 - 🔭 I’m currently working on back-end // Atualmente faço back-end
-- 🌱 I’m currently learning Python // Atualmente estou aprendendo Python
+- 🌱 I’m currently learning Python, and WebDevelopment // Atualmente estou aprendendo Python e desenvolvimento web
 - 📫 My email: danielleandromartone@gmail.com
 - 😄 Pronouns: He/Him // Pronomes: Ele/Dele
 - ⚡ Started my journey in software development in: 2021 // Comecei em 2021
