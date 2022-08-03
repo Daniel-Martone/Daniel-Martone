@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on back-end // Atualmente faço back-end
 - 🌱 I’m currently learning Python, and WebDevelopment // Atualmente estou aprendendo Python e desenvolvimento web
 - 📫 My email: danielleandromartone@gmail.com
-- 😄 Pronouns: He/Him // Pronomes: Ele/Dele
+- 🗣️ Fluent in Portuguese and English, intermediate Spanish
 - ⚡ Started my journey in software development in: 2021 // Comecei em 2021
 <div align="center">
   <a href="https://github.com/Daniel-Martone">
